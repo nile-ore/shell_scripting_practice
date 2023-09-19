@@ -1,4 +1,5 @@
 #!/bin/bash
+#This code generates a random hexadecimal password 
 
 echo "Enter the size of required characters password"
 read size
